@@ -1,0 +1,14 @@
+---
+- name: profile umask and tmout
+  become: 'yes'
+  become_method: sudo
+  template:
+    src: etc/profile.j2
+    dest: /etc/profile
+    backup: 'no'
+    mode: 0644
+    owner: root
+    group: root
+  tags:
+    - profile
+    - security

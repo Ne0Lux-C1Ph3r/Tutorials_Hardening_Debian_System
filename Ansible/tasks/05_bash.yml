@@ -1,0 +1,14 @@
+---
+- name: bash.bashrc umask
+  become: 'yes'
+  become_method: sudo
+  template:
+    src: etc/bash.bashrc.j2
+    dest: /etc/bash.bashrc
+    backup: 'no'
+    mode: 0600
+    owner: root
+    group: root
+  tags:
+    - bash.bashrc
+    - security

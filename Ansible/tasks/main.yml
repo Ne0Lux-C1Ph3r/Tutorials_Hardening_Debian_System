@@ -1,1 +1,9 @@
-
+---
+- include: 02_banners.yml
+- include: 03_hosts.yml
+- include: 04_modprobe.yml
+- include: 05_bash.yml
+- include: 06_profile.yml
+- include: 07_logindefs.yml
+- include: 08_sysctl.yml
+- include: 09_r00t.yml
