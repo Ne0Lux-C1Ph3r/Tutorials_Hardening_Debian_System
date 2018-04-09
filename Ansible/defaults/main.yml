@@ -1,0 +1,8 @@
+---
+# Exemple de packages à installer suivant lynis, listes réduites !!!!!!!! à adapter !!!!
+packages_to_install: [apt-listbugs, needrestart, debsums, debsecan, libpam-cracklib, libpam-tmpdir]
+# Kernel modules à désactiver
+kernel_blacklist_1: [dccp, sctp, rds, tipc, cramfs, freevxfs, hfs, hfsplus, jffs2, squashfs, udf, vfat]
+kernel_blacklist_2: [bluetooth, bnep, btusb, usb-storage, firewire-core, firewire-ohci, n_hdlc, net-pf-31, soundcore, thunderbolt, usb-midi]
+# Beaucoup d'exemples peuvent être mis dans ce fichier !!!!!
+...
