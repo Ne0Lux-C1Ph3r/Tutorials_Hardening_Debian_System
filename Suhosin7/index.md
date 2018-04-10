@@ -7,7 +7,7 @@
 
 ----------------------------------------
 
-Suhosin Extension for PHP 7.x of <b><a href="https://github.com/sektioneins/suhosin7" style="color= red">sektioneins</a></b>
+Suhosin Extension for PHP 7.x of <b><a href="https://github.com/sektioneins/suhosin7" style="color:red">sektioneins</a></b>
 https://www.suhosin.org
 
 Suhosin7 compiled for PHP7.2 folder /usr/lib/php/20170718
