@@ -1,4 +1,4 @@
-Tutorials
+<h1 align="center">Tutorials</h1>
 ----------------------------------------
 
 En construction
