@@ -1,7 +1,9 @@
-<center>SUHOSIN FOR PHP7.2</center>
+<p align="center">SUHOSIN FOR PHP7.2 
+<img src="../files/suhosin.jpeg">
+</p>
+
 ----------------------------------------
 
-<center><img src="../files/suhosin.jpeg"></center>
 
 
 ``` shell
