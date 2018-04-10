@@ -1,3 +1,10 @@
+SUHOSIN FOR PHP7.2
+----------------------------------------
+
+<img src="./files/suhosin.jpeg">
+
+
+``` shell
 En construction !!!!
 
 
@@ -9,3 +16,5 @@ Suhosin7 compil PHP7.2 dir /usr/lib/php/20170718
 Good compil for PHP7.2 !!!!!!!
 
 Just recreate link in /etc/php/7.2/.....
+
+```
