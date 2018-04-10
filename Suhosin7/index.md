@@ -1,7 +1,7 @@
-<b><p align="center">SUHOSIN FOR PHP7.2</p></b>
+<b><p align="center">SUHOSIN7 FOR PHP7.2</p></b>
 ----------------------------------------
 
-<img align="center" src="../files/suhosin.jpeg">
+<img src="../files/suhosin.jpeg" align="middle">
 
 ----------------------------------------
 
