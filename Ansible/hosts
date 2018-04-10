@@ -1,1 +1,2 @@
 # A voir selon les cas.
+localhost ansible_connection=local
