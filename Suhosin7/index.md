@@ -16,7 +16,7 @@ Good compilation for PHP7.2.
 
 Just recreate link in /etc/php/7.2/.....
 
-<a href="https://github.com/Ne0Lux-C1Ph3r/Write-up_Tutorials/blob/master/Suhosin7/suhosin7.so">suhosin7.so</a>
+<a href="https://github.com/Ne0Lux-C1Ph3r/Tutorials_Hardening_Debian_System/blob/master/Suhosin7/suhosin7.so">suhosin7.so</a>
  
 
 
