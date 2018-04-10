@@ -1,0 +1,30 @@
+---
+- hosts: localhost
+  tasks:
+    - name: r00t access.conf
+      become: 'yes'
+      become_method: sudo
+      lineinfile:
+        regexp: '^#.+|127.0.0.1$'
+        line: "+ : root : 127.0.0.1"
+        dest: /etc/security/access.conf
+        mode: 0644
+        owner: root
+        group: root
+      tags:
+        - root access.conf
+        - security
+
+    - name: Console root securetty
+      become: 'yes'
+      become_method: sudo
+      template:
+        src: ../templates/etc/securetty.j2
+        dest: /etc/securetty
+        backup: 'yes'
+        mode: 0644
+        owner: root
+        group: root
+      tags:
+        - console root securetty
+        - security
