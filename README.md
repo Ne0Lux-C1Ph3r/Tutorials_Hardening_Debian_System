@@ -3,7 +3,7 @@ Tutorials
 
 En construction
 
-<a href="https://github.com/Ne0Lux-C1Ph3r/Tutorials_Hardening_Debian_System/blob/master/Ansible/index.md" target="_blank">Ansible hardening Debian system</a><img src="/files/ansible.png" height="50%" width="50%"/>
+<a href="https://github.com/Ne0Lux-C1Ph3r/Tutorials_Hardening_Debian_System/blob/master/Ansible/index.md" target="_blank">Ansible hardening Debian system</a><img src="/files/ansible.png" height="10%" width="10%"/>
 
 <a href="https://github.com/Ne0Lux-C1Ph3r/Tutorials_Hardening_Debian_System/blob/master/Docker/index.md" target="_blank">Docker hardening Debian system</a><img src="/files/docker.png" height="50%" width="50%"/>
 
