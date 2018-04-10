@@ -8,15 +8,15 @@ En construction
 
 ```css
 
-<p><a href="https://github.com/Ne0Lux-C1Ph3r/Tutorials_Hardening_Debian_System/blob/master/Ansible/index.md" target="_blank"><style="color:orange">Partiel</style>:  Ansible hardening Debian system</a></p> 
+<a href="https://github.com/Ne0Lux-C1Ph3r/Tutorials_Hardening_Debian_System/blob/master/Ansible/index.md" target="_blank"><style="color:orange">Partiel</style>:  Ansible hardening Debian system</a>
 
-<p><a href="https://github.com/Ne0Lux-C1Ph3r/Tutorials_Hardening_Debian_System/blob/master/Docker/index.md" target="_blank">```html<style="color:red">En construction</style>: Docker hardening Debian system</a></p>                                                
+<a href="https://github.com/Ne0Lux-C1Ph3r/Tutorials_Hardening_Debian_System/blob/master/Docker/index.md" target="_blank">```html<style="color:red">En construction</style>: Docker hardening Debian system</a>                                               
 
-<p><a href="https://github.com/Ne0Lux-C1Ph3r/Tutorials_Hardening_Debian_System/blob/master/Lynis/index.md" target="_blank">```html<style="color:red">En construction</style>:  Lynis hardening Debian system</a></p>                                                 
+<a href="https://github.com/Ne0Lux-C1Ph3r/Tutorials_Hardening_Debian_System/blob/master/Lynis/index.md" target="_blank">```html<style="color:red">En construction</style>:  Lynis hardening Debian system</a>                                                
 
-<p><a href="https://github.com/Ne0Lux-C1Ph3r/Tutorials_Hardening_Debian_System/blob/master/Suhosin7/index.md" target="_blank">```html<style="color:green">OK</style>:  Suhosin7 for PHP7.2</a></p>                                                           
+<a href="https://github.com/Ne0Lux-C1Ph3r/Tutorials_Hardening_Debian_System/blob/master/Suhosin7/index.md" target="_blank">```html<style="color:green">OK</style>:  Suhosin7 for PHP7.2</a>                                                          
 
-<p><a href="https://github.com/Ne0Lux-C1Ph3r/Tutorials_Hardening_Debian_System/blob/master/Vagrant/index.md" target="_blank">```html<style="color:red">En construction</style>:  Vagrant</a></p>                                              
+<a href="https://github.com/Ne0Lux-C1Ph3r/Tutorials_Hardening_Debian_System/blob/master/Vagrant/index.md" target="_blank">```html<style="color:red">En construction</style>:  Vagrant</a>                                            
 ```
 
 
