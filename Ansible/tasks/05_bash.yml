@@ -8,7 +8,7 @@
         src: ../templates/etc/bash.bashrc.j2
         dest: /etc/bash.bashrc
         backup: 'no'
-        mode: 0600
+        mode: 0644
         owner: root
         group: root
       tags:
