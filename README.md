@@ -3,7 +3,7 @@ Tutorials
 
 En construction
 
-<img src="/files/ansible.png" height="10%" width="10%"/><img src="/files/docker.png" height="13%" width="13%"/><img src="/files/lynis.png" height="16%" width="16%"/><img src="/files/suhosin.jpeg" height="10%" width="10%"/><img src="/files/vagrant.png" height="14%" width="14%"/>
+<p align="center"><img src="/files/ansible.png" height="10%" width="10%"/><img src="/files/docker.png" height="13%" width="13%"/><img src="/files/lynis.png" height="16%" width="16%"/><img src="/files/suhosin.jpeg" height="10%" width="10%"/><img src="/files/vagrant.png" height="14%" width="14%"/></p>
 
 <a href="https://github.com/Ne0Lux-C1Ph3r/Tutorials_Hardening_Debian_System/blob/master/Ansible/index.md" target="_blank">Ansible hardening Debian system</a>
 
