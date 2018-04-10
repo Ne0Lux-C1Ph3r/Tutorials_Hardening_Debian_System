@@ -17,7 +17,3 @@ En construction
 
 <a href="https://github.com/Ne0Lux-C1Ph3r/Tutorials_Hardening_Debian_System/blob/master/Vagrant/index.md" target="_blank">```html<style="color:red">En construction</style>:  Vagrant</a>                                            
 
-
-``` shell
-
-```
