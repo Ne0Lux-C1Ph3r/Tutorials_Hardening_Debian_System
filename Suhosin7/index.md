@@ -4,18 +4,10 @@
 <p align="center">
   <img src="../files/suhosin.jpeg"/>
 </p>
-<img src="../files/suhosin.jpeg" align="middle">
 
 ----------------------------------------
 
-
-
-
-
 ``` shell
-En construction !!!!
-
-
 Suhosin Extension for PHP 7.x of sektioneins
 https://www.suhosin.org
 
