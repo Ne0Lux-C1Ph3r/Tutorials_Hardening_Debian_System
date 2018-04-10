@@ -1,0 +1,18 @@
+---
+- hosts: localhost
+  tasks:
+    - name: kernel hardening sysctl.conf
+      become: 'yes'
+      become_method: sudo
+      template:
+        src: ../templates/etc/sysctl.j2
+        dest: /etc/sysctl.conf
+        backup: 'yes'
+        mode: 0600
+        owner: root
+        group: root
+      notify:
+        - restart sysctl
+      tags:
+        - sysctl
+        - security

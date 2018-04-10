@@ -1,0 +1,17 @@
+---
+# A modifier selon vos souhaits.
+- hosts: localhost
+  tasks:
+    - name: configure logindefs umask and pass
+      become: 'yes'
+      become_method: sudo
+      template:
+        src: ../templates/etc/login.defs.j2
+        dest: /etc/login.defs
+        backup: 'no'
+        mode: 0644
+        owner: root
+        group: root
+      tags:
+        - umask
+        - security
