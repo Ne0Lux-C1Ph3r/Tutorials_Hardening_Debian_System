@@ -20,6 +20,8 @@ Several installations to protect the system to develop!!!!
 
 ```
 First see my tutorials.....
+Secondly there is an order in the configurations and installations!!!
+I'll come back to it later.
 "I will not be responsible for errors or even worse"
 "Always check and check before"
 ```
@@ -28,5 +30,12 @@ In progress:
 ```
 
 EN CONSTRUCTION
+
+For any good developer and programmer:
+sudo apt-get install linux-headers-$(uname -r)
+"important for installation virtualbox and others and ....."
+
+
+
 
 ```
