@@ -14,7 +14,7 @@
 Description:
 
 ```
-Several installations to protect the system to develop!!!!
+Several installations to protect the system to develop and more !!!!
 ```
 
 
@@ -25,6 +25,46 @@ I'll come back to it later.
 "I will not be responsible for errors or even worse"
 "Always check and check before"
 ```
+
+Order for hardening system: Yes/No
+
+After installation, modify:
+
+In progress:
+
+```
+/etc/adduser.conf
+/etc/aide...... after !!!!
+/etc/ansible...... after !!!!
+/etc/apache2...... after !!!!
+/etc/apparmor...... after !!!!
+/etc/apt...... after !!!!
+/etc/audisp...... after !!!!
+/etc/audit...... after !!!!
+SEE /etc/banners
+/etc/bash.bashrc
+/etc/cron......after !!!!
+/etc/default/......after !!!!
+/etc/fstab
+/etc/gdm3/......after !!!!
+/etc/hosts
+/etc/hosts.allow
+/etc/hosts.deny
+/etc/init.d/......after !!!!
+/etc/issue
+/etc/issue.net
+/etc/login.defs
+/etc/logrotate......after !!!!
+/etc/modprobe.d/hardening.conf
+/etc/motd
+/etc/profile
+/etc/securetty
+/etc/sysctl.conf
+/etc/
+
+
+```
+After update, upgrade and dist-upgrade, modify:
 In progress:
 
 ```
