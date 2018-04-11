@@ -28,7 +28,7 @@ I'll come back to it later.
 
 Order for hardening system: Yes/No
 
-After installation, modify:
+After installation, modify, before reboot:
 
 In progress:
 
