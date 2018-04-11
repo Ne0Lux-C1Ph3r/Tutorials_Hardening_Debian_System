@@ -26,7 +26,8 @@ Create suhosin7.ini in the folder /etc/php/7.2/mods-available with:
 ; priority=10
 
 extension=suhosin7.so
-#suhosin.simulation = off # modify
+#suhosin.simulation = off #modify
+#options.........
 ```
 
 
