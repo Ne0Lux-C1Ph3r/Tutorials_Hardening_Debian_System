@@ -32,10 +32,19 @@ In progress:
 EN CONSTRUCTION
 
 For any good developer and programmer:
+
 sudo apt-get install linux-headers-$(uname -r)
 "important for installation virtualbox and others and ....."
 
+For ruby and python lastest version:
 
+sudo apt-get upgrade "except for python, download on site".
+
+Ruby:
+Create file in /home/$USER without "r00t" for more security!!!!
+echo "gem: --user-install" >> ~/.gemrc
+
+IN PROGRESS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
 ```
