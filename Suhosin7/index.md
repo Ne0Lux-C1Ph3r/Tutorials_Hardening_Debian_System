@@ -49,6 +49,9 @@ The command "php -m" confirm me that suhosin7 is present.
 Test in process:
 ```
 EN CONSTRUCTION
+
+In test phase, bypass test, hack and feedback by syslog......
+
 ```
 
 
