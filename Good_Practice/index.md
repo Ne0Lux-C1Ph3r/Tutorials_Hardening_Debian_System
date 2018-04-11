@@ -14,12 +14,14 @@
 Description:
 
 ```
-
+Several installations to protect the system to develop!!!!
 ```
 
 
 ```
-
+First see my tutorials.....
+"I will not be responsible for errors or even worse"
+"Always check and check before"
 ```
 
 
