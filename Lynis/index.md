@@ -26,5 +26,6 @@ Modification of lynis for problems modules updates:
 ```
 EN CONSTRUCTION
 
+In test, problem recognition PHP7.2, xinetd, suhosin good but suhosin7 (others things), and good others.....
 
 ```
