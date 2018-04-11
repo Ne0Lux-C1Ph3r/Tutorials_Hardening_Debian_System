@@ -12,7 +12,12 @@
 Description:
 
 ```
-Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. 
+Docker is a tool designed to make it easier to create, deploy, and run applications by using containers.
+Container virtualization is based on Linux LXC virtualization for Linux Containers. This is a 
+partitioning method at the OS level. The principle is to run Linux environments isolated from each other
+in containers sharing the same kernel. This means that unlike traditional virtual machines, a container 
+does not include OS, since it relies on the OS features of the host machine. The containers then access 
+the host OS completely isolated from each other.
 
 ```
 Installation Docker:
