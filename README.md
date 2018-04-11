@@ -12,6 +12,6 @@ En construction
 
 <p><a href="https://github.com/Ne0Lux-C1Ph3r/Tutorials_Hardening_Debian_System/blob/master/Lynis/index.md" target="_blank">En construction:  Lynis hardening Debian system</a></p>                                                
 
-<p><a href="https://github.com/Ne0Lux-C1Ph3r/Tutorials_Hardening_Debian_System/blob/master/Suhosin7/index.md" target="_blank">OK:  Suhosin7 for PHP7.2</a></p>                                                          
+<p><a href="https://github.com/Ne0Lux-C1Ph3r/Tutorials_Hardening_Debian_System/blob/master/Suhosin7/index.md" target="_blank">Partiel:  Suhosin7 for PHP7.2</a></p>                                                          
 
 <p><a href="https://github.com/Ne0Lux-C1Ph3r/Tutorials_Hardening_Debian_System/blob/master/Vagrant/index.md" target="_blank">En construction:  Vagrant</a></p>                                            
