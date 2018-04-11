@@ -43,8 +43,12 @@ The command "php -m" confirm me that suhosin7 is present.
  <p align="center">
   <img src="../files/suhosin7.png"/>
 </p>
- 
- 
+
+----------------------------------------
+
+Test in process:
+```
 EN CONSTRUCTION
+```
 
 
