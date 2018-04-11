@@ -7,7 +7,10 @@
 
 ----------------------------------------
 
-Suhosin Extension for PHP 7.x of <b><a href="https://github.com/sektioneins/suhosin7" style="color: rgb(255,0,0)">sektioneins</a></b>
+Suhosin Extension for PHP 7.x
+```diff
++ sektioneins
+```
 https://www.suhosin.org
 
 
