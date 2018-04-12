@@ -23,9 +23,10 @@ sudo apt-get update && sudo apt-get install lynis
 ```
 Modification of lynis for problems modules updates: 
 
-```
-EN CONSTRUCTION
+Problem1 recognition PHP7.2:
+File modify for recognition PHP7.2 <p><a href="https://github.com/Ne0Lux-C1Ph3r/Tutorials_Hardening_Debian_System/blob/master/files/tests_php" target="_blank">tests_php</a></p>
 
-In test, problem recognition PHP7.2, xinetd, suhosin good but suhosin7 (others things), and good others.....
+Problem2 recognition inetd but not xinetd:
+inetd isn't call but maybe xinetd file modify for changed inetd vs xinetd <p><a href="https://github.com/Ne0Lux-C1Ph3r/Tutorials_Hardening_Debian_System/blob/master/files/tests_insecure_services" target="_blank">tests_insecure_services</a></p>
 
-```
+
