@@ -22,11 +22,10 @@ sudo apt-get install ansible
 Configuration minimal localhost:
 
 ```
-
-EN CONSTRUCTION
-
-
+Files hosts and ansible.cfg
 ```
+<p><a href="https://github.com/Ne0Lux-C1Ph3r/Tutorials_Hardening_Debian_System/tree/master/Ansible" target="_blank">hosts and ansible.cfg</a></p> 
+
 
 Description tasks and templates for hardening:
 
