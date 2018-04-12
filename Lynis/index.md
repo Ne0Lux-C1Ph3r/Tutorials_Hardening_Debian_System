@@ -30,3 +30,12 @@ Problem2 recognition inetd but not xinetd:
 inetd isn't call but maybe xinetd file modify for changed inetd vs xinetd <p><a href="https://github.com/Ne0Lux-C1Ph3r/Tutorials_Hardening_Debian_System/blob/master/files/tests_insecure_services" target="_blank">tests_insecure_services</a></p>
 
 
+Use lynis:
+```
+sudo lynis audit system --verbose --debug
+```
+
+Understand the log:
+```
+Example: sudo lynis show details PHP-2379
+```
