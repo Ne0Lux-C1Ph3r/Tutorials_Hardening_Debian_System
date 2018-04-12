@@ -38,12 +38,27 @@ In progress:
 /etc/adduser.conf
 DSHELL=/bin/bash in DSHELL=/bin/false if problem go back into bash.
 
+/etc/default/useradd
+SHELL=/bin/sh in SHELL=/bin/false if problem go back into sh.
+INACTIVE=0 as soon as it's finished equal to trash
+
+/etc/default/sysstat
+ENABLED="false" in ENABLED="true".
+And sudo systemctl enable sysstat && sudo systemctl start sysstat
+I will do on ansible a tutorial.
+
 /etc/bash.bashrc
 Add umask 0027
 
 /etc/gdm3/daemon.conf
+[security]
 AllowRoot = false
 DisallowTCP = true
+
+/etc/gdm3/greeter.dconf-defaults
+remove the # in front of what is below and modify.
+banner-message-enable=true
+banner-message-text='*** UNAUTHORIZED ACCESS PROHIBITED ***'
 
 /etc/hosts ==> example minimal!!!
 127.0.0.1	localhost local localhost.localdomain
@@ -87,12 +102,19 @@ See my folder ansible for modules to disable.
 
 /etc/profile
 Add umask 0027
+TMOUT=900
+readonly TMOUT
+export TMOUT
 
 /etc/securetty
 See my folder ansible for example if not just put console for r00t.
 
 /etc/sysctl.conf
 See my folder ansible for example.
+
+/etc/security/access.conf
+See my folder ansible for example or ...
++ : root : 127.0.0.1
 
 /etc/security/limits.conf minimal see more on internet!!
 *               soft    core            0
