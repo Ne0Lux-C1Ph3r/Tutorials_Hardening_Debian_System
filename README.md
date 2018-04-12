@@ -4,7 +4,7 @@
 
 
 <p align="center" style=padding: 50px"
-><img src="/files/ansible.png" height="10%" width="10%"/><img src="/files/docker.png" height="13%" width="13%"/><img src="/files/lynis.png" height="16%" width="16%"/><img src="/files/suhosin.jpeg" height="10%" width="10%"/><img src="/files/vagrant.png" height="14%" width="14%"/></p>
+><img src="/files/ansible.png" height="10%" width="10%"/><img src="/files/docker.png" height="13%" width="13%"/><img src="/files/lynis.png" height="16%" width="16%"/><img src="/files/vagrant.png" height="14%" width="14%"/></p>
 
 ----------------------------------------
 
